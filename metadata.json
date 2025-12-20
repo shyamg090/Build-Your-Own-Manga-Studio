@@ -1,0 +1,7 @@
+{
+  "name": "Build Your Own Manga Story",
+  "description": "An end-to-end manga creation platform powered by Gemini AI, allowing users to generate characters, stories, and design pages with a drag-and-drop editor.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
